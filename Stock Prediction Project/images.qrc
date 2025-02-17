@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/exit.png</file>
+    <file>images/graph.png</file>
+    <file>images/home.png</file>
+    <file>images/predicte.png</file>
+    <file>images/print.png</file>
+    <file>images/iconStock.png</file>
+    <file>images/train.png</file>
+    <file>images/stock_home.png</file>
+</qresource>
+</RCC>
