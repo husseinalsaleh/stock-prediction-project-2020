@@ -1,13 +1,12 @@
 # stock-prediction-project-2020
 Stock Prediction Project, this was my graduation project from Information Systems Engineering program at Syrian Virtual University with a Bachelor degree
-<<<<<<< HEAD
-Hussein Alsaleh
-https://svuis.svuonline.org/SVUIS/grad_chk.php?lang=en
-=======
+
+Hussein Alsaleh @ https://svuis.svuonline.org/SVUIS/grad_chk.php?lang=en
+==========
 
 # Machine Learning – Based Prediction
 
-# Summary
+## Summary
 The study aims to analyze statistical data and available algorithms, in addition to supporting new trends in assistance and providing specific standards for evaluating assistance. The study also presents a comprehensive methodology to ensure the effectiveness of assistance in different contexts.
 
 The study seeks to explore future trends in assistance by analyzing key stages and presenting a systematic approach for evaluating models. The goal is to determine the effectiveness of assistance in real-world applications and provide insights into future improvements.
